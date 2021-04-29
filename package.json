@@ -1,13 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "rileymanda",
-	"description":"Improving my microservices and and node skills",
-	"keywords": [ "improviong my node skills", "nodejs", "freecodecamp" ],
+	"description": "Improving my microservices and and node skills",
+	"keywords": [
+		"improviong my node skills",
+		"nodejs",
+		"freecodecamp"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "~2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
